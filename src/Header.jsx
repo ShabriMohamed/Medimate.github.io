@@ -15,7 +15,7 @@ const Header = () => {
       </Helmet>
 
       <div className="logo-container">
-        <img src="/Medimate.png" alt="Medimate Logo" className="logo" />
+        
         <p className="logo-text">
           <span className="logo-text-medi">Medi</span>mate
         </p>
